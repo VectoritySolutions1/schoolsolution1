@@ -25,8 +25,6 @@
 `python manage.py migrate`
 
 ## Authors
-* [Chris John Agarap](https://github.com/seeej) - Lead Developer
-* Rex Christian Baldonado - Front-end Developer
-* Jeane Cabahug - QA Tester
-* Beatrizce Anne Danao - Documentation
-* Shayne Hazel Palafox - Assistant Lead & Front-end Developer
+* Daiva - Manager R & D
+* Arun - Lead Devops 
+
