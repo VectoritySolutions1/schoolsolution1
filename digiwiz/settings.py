@@ -27,7 +27,7 @@ SECRET_KEY = 'ah6cc^p2!%)^kfinx#et#lbsio_+tmfc2$58ajd5)6nnm24uuv'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['3.23.166.35']  # if not DEBUG (False): ['127.0.0.1']
+ALLOWED_HOSTS = ['3.23.166.35','www.skillcompute.com']  # if not DEBUG (False): ['127.0.0.1']
 
 
 # Application definition
